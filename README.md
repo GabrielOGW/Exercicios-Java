@@ -82,6 +82,8 @@ Faça um aplicativo para uma calculadora simples em que o usuário digite dois n
 
 Arquivos: Calculadora.Java, ExecutaCalc.java
 
+---
+
 ###### Atividade 7:  
 A GamerShop solicitou um programa que calcule o percentual de lucro para cada linha de produto, dependo da região em que foi vendida. Considere as condições abaixo:
 
@@ -90,6 +92,8 @@ A GamerShop solicitou um programa que calcule o percentual de lucro para cada li
 + Código: 3 = Região Sudeste e lucro de 8%
 
 Arquivos: loja.Java, ExecLoja.java
+
+---
 
 ##### Atividade 8:
 Faça um programa que calcule o fatorial de um número inteiro informado.
